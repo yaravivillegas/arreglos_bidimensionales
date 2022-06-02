@@ -8,3 +8,4 @@ for i in range(2):
         print(arreglo_bi[i][j])
         
 print(arreglo_bi[1][1])
+print(arreglo_bi[1][2])
